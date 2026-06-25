@@ -1,8 +1,8 @@
 {
-   "owner": "6285xxxxxxxx",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6283840646049",
+   "owner_name": "Farr",
    "database": "data",
-   "limit": 15,
+   "limit": 30,
    "ram_limit": "900mb",
    "cpu_limit": true,
    "cpu_threshold": 85,
@@ -19,9 +19,9 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 6282258694977,
+      "number": 6283840646049,
       "browser": ["Mac OS", "Chrome", "139.0.7258.164"],
-      "version": [2, 3000, 1041772087],
-      "code": "NEOXRBOT"
+      "version": [2, 3000, 1040990833],
+      "code": "ASUNAFAR"
    }
 }
